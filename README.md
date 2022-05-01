@@ -3,7 +3,7 @@
 
 <p align="center">
  <a>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Tahateber95&theme=tokyonight" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Tahateber95&theme=tokyonight&show_icons=true&line_height=27&count_private=true&include_all_commits=true" />
   </a>
  </a>
 </p>
