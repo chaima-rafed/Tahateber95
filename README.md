@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Taha ! 💙</h1>
 <h3 align="center">.NET Developer</h3>
 
-<p align="left">
+<p align="center">
  <a>
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Tahateber95&theme=tokyonight" />
   </a>
