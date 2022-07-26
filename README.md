@@ -4,6 +4,3 @@
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Tahateber95&show_icons=true&line_height=27&count_private=true&include_all_commits=true"/>
 </p>
 
-<p align="center">
-   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahateber95&hide_langs_below=5&layout=compact"/>
- </p>
