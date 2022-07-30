@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Taha !</h1>
+## i'm Taha:
 
-<p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Tahateber95&show_icons=true&line_height=27&count_private=true&include_all_commits=true"/>
-</p>
+- I write in code in C#, Dart, php 
+- learning everyday
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahateber95&show_icons=true&theme=cobalt)
 
