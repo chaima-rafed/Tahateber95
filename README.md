@@ -1,4 +1,4 @@
-## i'm Taha:
+## I'm Taha:
 
 - I write in code in C#, Dart, php 
 - learning everyday
