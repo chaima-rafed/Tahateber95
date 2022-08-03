@@ -1,6 +1,7 @@
 ## I'm Taha:
 
-- I write in code in C#, Dart, php 
+- I write in C#, Dart, PHP 
+- I’m currently working on [flutter_easy_table](https://pub.dev/packages/flutter_easy_table)
 - learning everyday
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahateber95&count_private=true&show_icons=true&theme=cobalt&include_all_commits)
